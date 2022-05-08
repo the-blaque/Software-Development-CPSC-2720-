@@ -1,0 +1,24 @@
+Goal:
+  Be the first player to discard all cards in your hand.
+On your turn:
+  On your turn you can play a card that matches either:
+    The Colour of the top card of the discard
+    The Value of the top card of the discard
+    Any Wild Card in your Hand
+Special Cards:
+  When you play an Wild card:
+    Pick a Colour:
+      The next card played must match that colour, or be a wild card
+  When you play a draw x:
+    The next player will draw the specified number of cards
+  When you play a reverse:
+    The turn order will reverse until another reverse is played
+    (This card has no effect in a 2 player game)
+To play a card:
+  When it is your turn all valid cards will be listed
+  To play a card, simply type the number listed next to it.
+  As an example, if this was the list of valid cards:
+    1. Red One
+    2. Blue One
+    3. Red Five
+  If you wanted to play the Red Five you would type 3

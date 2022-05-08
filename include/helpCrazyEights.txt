@@ -1,0 +1,19 @@
+Goal:
+  Be the first player to discard all cards in your hand.
+On your turn:
+  On your turn you can play a card that matches either:
+    The suit of the top card of the discard
+    The rank of the top card of the discard
+Special Cards:
+  When you play an 8:
+    Pick a suit, the next card played must either:
+      Match that suit or
+      Be an Eight
+To play a card:
+  When it is your turn all valid cards will be listed
+  To play a card, simply type the number listed next to it.
+  As an example, if this was the list of valid cards:
+    1. Ace of Spades
+    2. Two of Hearts
+    3. King of Diamonds
+  If you wanted to play the king of diamonds you would type 3
